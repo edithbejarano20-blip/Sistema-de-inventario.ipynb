@@ -182,8 +182,4 @@ Como mejoras futuras se podría:
 3. Ejecutarlo utilizando Python 3.
 4. Revisar los resultados mostrados en la consola.
 
-12. Video
 
-Enlace al video de la exposición:
-
-PEGAR_AQUÍ_EL_ENLACE_DEL_VIDEO
