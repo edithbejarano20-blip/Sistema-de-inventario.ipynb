@@ -182,4 +182,6 @@ Como mejoras futuras se podría:
 3. Ejecutarlo utilizando Python 3.
 4. Revisar los resultados mostrados en la consola.
 
+link del video 
 
+https://fumcc.sharepoint.com/:v:/s/TAREADEESTRUCTURA/IQCIpaGHIYkiTr4hv6vGP9VBAVdTyxzxHvosFUcXDI4aRg4?e=IMU80V&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
